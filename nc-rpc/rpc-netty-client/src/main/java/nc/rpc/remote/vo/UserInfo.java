@@ -1,10 +1,15 @@
-package nc.rpc.localservice.vo;
+package nc.rpc.remote.vo;
 
 import java.io.Serializable;
 
+
 public class UserInfo implements Serializable {
-    private final String name;
-    private final String phone;
+
+    private String name;
+    private String phone;
+
+    public UserInfo() {
+    }
 
     public UserInfo(String name, String phone) {
         this.name = name;

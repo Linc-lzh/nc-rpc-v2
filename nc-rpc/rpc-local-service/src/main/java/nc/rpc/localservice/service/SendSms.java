@@ -1,4 +1,7 @@
 package nc.rpc.localservice.service;
 
-public class SendSms {
+import nc.rpc.localservice.vo.UserInfo;
+
+public interface SendSms {
+    boolean sendMail(UserInfo user);
 }
