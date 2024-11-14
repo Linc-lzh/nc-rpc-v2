@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>cn.rpc</groupId>
+    <groupId>nc.rpc</groupId>
     <artifactId>rpc-local-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>local-service</name>

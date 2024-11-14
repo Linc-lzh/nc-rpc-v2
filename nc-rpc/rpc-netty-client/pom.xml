@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>cn.enjoyedu</groupId>
+    <groupId>nc.rpc</groupId>
     <artifactId>rpc-netty-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>rpc-netty-client</name>
